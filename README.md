@@ -28,3 +28,26 @@ https://github.com/platplant/s_melody_generation/assets/157796397/e10a2e75-3c58-
 
 https://github.com/platplant/s_melody_generation/assets/157796397/bcbb5380-91e4-4f40-9fc2-ed5c74291fa2
 
+
+### メロディ生成例(平均的な生成例)
+
+
+
+https://github.com/platplant/s_melody_generation/assets/157796397/30a1a133-ede5-4f9c-b4c7-795d95aa90bf
+
+
+
+https://github.com/platplant/s_melody_generation/assets/157796397/7f5136ce-81b1-4031-a268-15d2c5fcfa45
+
+
+
+https://github.com/platplant/s_melody_generation/assets/157796397/0d405e38-8399-4b10-90a4-022db46d64e9
+
+
+
+https://github.com/platplant/s_melody_generation/assets/157796397/73064660-fc7a-44dc-82d2-e283c50b74c1
+
+
+
+https://github.com/platplant/s_melody_generation/assets/157796397/656efc11-fddd-4d49-897c-620363e2ac62
+
