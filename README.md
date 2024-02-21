@@ -3,7 +3,7 @@
 
 Google Colaboratoryにs_melody_generation.ipynbと、それぞれのファイルをアップロードすることで実行ができます。
 ### 楽曲二値分類学習済みモデル(model_cpu.pth, model_gpu.pth)
-213曲の楽曲データを用いて学習を行ったモデルです。
+213曲のピアノ楽曲データを用いて学習を行ったモデルです。
 ### メロディ生成手法
 良いメロディ悪いメロディの二値分類を行うモデルを作成し(楽曲二値分類学習済みモデル)、ランダム入力データのメロディに対して、二値分類モデルがより良いメロディと判断するようにトークンの変更を繰り返すことで、良いメロディを生成します。
 ### メロディ生成例(成功例)
@@ -51,3 +51,4 @@ https://github.com/platplant/s_melody_generation/assets/157796397/73064660-fc7a-
 
 https://github.com/platplant/s_melody_generation/assets/157796397/656efc11-fddd-4d49-897c-620363e2ac62
 
+### 今後
